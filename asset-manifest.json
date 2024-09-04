@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat-bot/static/css/main.96fe1fe8.css",
+    "main.js": "/chat-bot/static/js/main.b0ff209d.js",
+    "static/media/send.wav": "/chat-bot/static/media/send.5e1ec6a8ff9af0ee6fb7.wav",
+    "static/media/recive.wav": "/chat-bot/static/media/recive.dc33d3d941bfa0e8ac62.wav",
+    "index.html": "/chat-bot/index.html",
+    "main.96fe1fe8.css.map": "/chat-bot/static/css/main.96fe1fe8.css.map",
+    "main.b0ff209d.js.map": "/chat-bot/static/js/main.b0ff209d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fe1fe8.css",
+    "static/js/main.b0ff209d.js"
+  ]
+}
